@@ -1,0 +1,4 @@
+show me all distinct firstnames
+
+
+select distinct firstname from customer

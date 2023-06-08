@@ -1,0 +1,4 @@
+select * from pavan
+select id from customer
+
+
