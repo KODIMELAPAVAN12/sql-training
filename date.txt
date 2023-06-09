@@ -1,0 +1,19 @@
+select getdate()
+
+select getdate()-2
+
+
+
+select datepart(yyyy,getdate())
+select datepart(mm,getdate())
+select datepart(dd,getdate())
+
+
+dateadd--
+select dateadd(day,4,getdate())
+select dateadd(month,4,getdate())
+
+
+datediff--
+select datediff(day,firstdate,enddate) from pavan
+

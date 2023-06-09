@@ -1,0 +1,18 @@
+string functions...
+
+concat
+left 
+right
+substring 
+lower
+upper
+trim
+
+select concat(firstname,lastname) from pavan
+select left(firstname,3) from pavan
+select right(firstname,3) from pavan
+select len(firstname) from pavan
+select substring(firstname,2,5) from pavan
+select ltrim('   pav   ')
+select rtrim('   pav   ')
+ 

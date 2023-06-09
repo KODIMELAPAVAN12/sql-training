@@ -1,0 +1,13 @@
+they are min max avg sum count .
+
+
+
+select salary from mySalary
+
+select min(salary) from mySalary
+
+select max(salary) from mySalary
+
+select avg(salary) from mySalary
+
+select count(salary) from mySalary
